@@ -7,12 +7,12 @@ import qualified Data.Map as Map
 
 -- A huffman code is represented by a binary tree.
 
-data CodeTree = Fork {left :: CodeTree, right :: CodeTree, chars :: [Char], weight :: Integer} |
-                Leaf {char :: Char, weight :: Integer} deriving Show
+data CodeTree = Fork {left :: CodeTree, right :: CodeTree, chars :: [Char], weight :: Int} |
+                Leaf {char :: Char, weight :: Int} deriving Show
 
 -- Computes for each unique character in the list the number of times it occurs.
 
-times :: [Char] -> Map Char Integer
+times :: [Char] -> Map Char Int
 times = Map.fromListWith (+) . map (\x -> (x, 1))
 
 ch :: CodeTree -> [Char]
@@ -38,10 +38,10 @@ combine xs = xs
 -- head of the list should have the smallest weight), where the weight
 -- of a leaf is the frequency of the character.
 
-orderedLeafList :: Map Char Integer -> [CodeTree]
+orderedLeafList :: Map Char Int -> [CodeTree]
 orderedLeafList = sortBy (comparing weight) . map makeLeaf . Map.toList
 
-makeLeaf :: (Char, Integer) -> CodeTree
+makeLeaf :: (Char, Int) -> CodeTree
 makeLeaf (c, w) = Leaf {char = c, weight = w}
 
 isSingleton :: [CodeTree] -> Bool
