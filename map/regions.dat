@@ -1,0 +1,83 @@
+adygea: krasnodarkrai 
+altai: kemerovo khakassia tuva altaikrai 
+altaikrai: novosibirsk kemerovo altai 
+amur: yakutia khabarovskkrai jewishao zabaykalskykrai 
+arkhangelsk: karelia vologda kirov komi nenetsao 
+astrakhan: volgograd kalmykia 
+bashkortostan: tatarstan udmurtia permkrai sverdlovsk chelyabinsk orenburg 
+belgorod: kursk voronezh 
+bryansk: smolensk kaluga oryol kursk 
+buryatia: irkutsk tuva zabaykalskykrai 
+chechnya: ingushetia stavropolkrai dagestan ossetia 
+chelyabinsk: bashkortostan sverdlovsk kurgan orenburg 
+chukotka: kamchatkakrai magadan yakutia 
+chuvashia: nizhnynovgorod mariel tatarstan mordovia ulyanovsk 
+dagestan: chechnya stavropolkrai kalmykia 
+hmao: tyumen tomsk yamalonenetsao krasnoyarskkrai sverdlovsk komi 
+ingushetia: chechnya ossetia 
+irkutsk: buryatia krasnoyarskkrai yakutia zabaykalskykrai tuva 
+ivanovo: vladimir nizhnynovgorod kostroma yaroslavl 
+jewishao: khabarovskkrai amur 
+kabardinobalkaria: stavropolkrai ossetia karachaycherkessia 
+kaliningrad: 
+kalmykia: dagestan stavropolkrai rostov volgograd astrakhan 
+kaluga: bryansk moscow tula smolensk oryol 
+kamchatkakrai: chukotka 
+karachaycherkessia: kabardinobalkaria krasnodarkrai stavropolkrai 
+karelia: vologda leningrad murmansk arkhangelsk 
+kemerovo: altaikrai altai novosibirsk tomsk khakassia krasnoyarskkrai 
+khabarovskkrai: primorskykrai magadan yakutia jewishao amur 
+khakassia: altai krasnoyarskkrai tuva kemerovo 
+kirov: arkhangelsk permkrai udmurtia komi vologda kostroma nizhnynovgorod mariel tatarstan 
+komi: nenetsao sverdlovsk permkrai arkhangelsk kirov hmao yamalonenetsao 
+kostroma: ivanovo kirov vologda nizhnynovgorod yaroslavl 
+krasnodarkrai: rostov stavropolkrai adygea karachaycherkessia 
+krasnoyarskkrai: tomsk tuva yakutia khakassia irkutsk kemerovo hmao yamalonenetsao 
+kurgan: chelyabinsk sverdlovsk tyumen 
+kursk: belgorod bryansk oryol lipetsk voronezh 
+leningrad: karelia vologda novgorod pskov saintpetersburg 
+lipetsk: kursk oryol tula ryazan tambov voronezh 
+magadan: chukotka khabarovskkrai yakutia 
+mariel: chuvashia tatarstan nizhnynovgorod kirov 
+mordovia: chuvashia nizhnynovgorod ulyanovsk penza ryazan 
+moscowcity: moscow 
+moscow: kaluga tver vladimir ryazan tula smolensk moscowcity yaroslavl 
+murmansk: karelia 
+nenetsao: komi arkhangelsk yamalonenetsao 
+nizhnynovgorod: chuvashia mariel mordovia ivanovo kirov kostroma ryazan vladimir 
+novgorod: leningrad pskov tver vologda 
+novosibirsk: altaikrai kemerovo tomsk omsk 
+omsk: novosibirsk tyumen tomsk 
+orenburg: bashkortostan chelyabinsk samara tatarstan 
+oryol: bryansk kaluga kursk lipetsk tula 
+ossetia: chechnya ingushetia kabardinobalkaria stavropolkrai 
+penza: mordovia ulyanovsk saratov tambov ryazan 
+permkrai: sverdlovsk udmurtia bashkortostan komi kirov 
+primorskykrai: khabarovskkrai 
+pskov: leningrad novgorod tver smolensk 
+rostov: krasnodarkrai kalmykia volgograd voronezh stavropolkrai 
+ryazan: mordovia lipetsk moscow nizhnynovgorod penza vladimir tambov tula 
+saintpetersburg: leningrad 
+sakhalin: 
+samara: orenburg saratov ulyanovsk tatarstan 
+saratov: penza samara volgograd voronezh tambov ulyanovsk 
+smolensk: bryansk kaluga moscow pskov tver 
+stavropolkrai: krasnodarkrai chechnya dagestan kabardinobalkaria kalmykia karachaycherkessia ossetia rostov 
+sverdlovsk: permkrai bashkortostan komi chelyabinsk kurgan tyumen hmao 
+tambov: lipetsk penza ryazan saratov voronezh 
+tatarstan: bashkortostan chuvashia mariel ulyanovsk udmurtia kirov orenburg samara 
+tomsk: krasnoyarskkrai kemerovo novosibirsk omsk hmao 
+tula: kaluga lipetsk moscow oryol ryazan 
+tuva: krasnoyarskkrai altai buryatia khakassia irkutsk 
+tver: moscow novgorod pskov smolensk yaroslavl vologda 
+tyumen: kurgan omsk sverdlovsk hmao 
+udmurtia: permkrai bashkortostan tatarstan kirov 
+ulyanovsk: chuvashia mordovia tatarstan penza samara saratov 
+vladimir: ivanovo moscow nizhnynovgorod ryazan yaroslavl 
+volgograd: kalmykia astrakhan rostov saratov voronezh 
+vologda: karelia arkhangelsk kirov kostroma leningrad novgorod tver yaroslavl 
+voronezh: belgorod kursk lipetsk rostov saratov tambov volgograd 
+yakutia: chukotka khabarovskkrai krasnoyarskkrai zabaykalskykrai amur irkutsk magadan 
+yamalonenetsao: hmao nenetsao komi krasnoyarskkrai 
+yaroslavl: ivanovo kostroma moscow tver vladimir vologda 
+zabaykalskykrai: buryatia yakutia amur irkutsk 
